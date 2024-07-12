@@ -17,7 +17,7 @@ function App() {
         <Stack.Screen name="Cart" component={CartScreen} />
       </Stack.Navigator>
     </NavigationContainer>
-  );
+  ); 
 }
 
 export default App;
